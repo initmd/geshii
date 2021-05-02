@@ -24,7 +24,7 @@
   <br>
   <br>
   <br>
-  <samp> FOR ANY QUESTIONS, SEND ME A MAIL OR DM ME ON DISCORD<br> Hi ! I'm <a>Geshi</a>.<br>  I'm an half time student and half time dev. I like code, anime, and music !<br><br>I contribute to every kind of project </samp>
+  <samp> FOR ANY QUESTIONS, SEND ME A MAIL OR DM ME ON DISCORD (Geshi#0001)<br> Hi ! I'm <a>Geshi</a>.<br>  I'm an half time student and half time dev. I like code, anime, and music !<br><br>I contribute to every kind of project </samp>
   <br>
   <br>
   <img src="https://u.geshii.moe/j4vzuf9a6ksv.png" width="300" />
