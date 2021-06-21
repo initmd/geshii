@@ -1,17 +1,11 @@
-# $~ nano Hello.txt
-Hey, welcome to my page ! Are you looking for some info about me ? You're at the right place !
-
-## Who are you ?
-I'm Geshi. I started dev in middle school, and now I'm contributing to a lot of open-source projects.    
-
-I'm not currently working full-time because I'm a student. I'm really happy to work with a lot of people in a lot of projects, big or small (such as osu!, kitsu-desktop, mewo, and more !)   
-
-# How to support you ?
-
-You can support me using Github's sponsorship system. Just click on the sponsor button and it should be good ! (Note: The button is unavailable since I need to fix some stuff).  
+<samp>I'm not currently working full-time because I'm a student. I'm really happy to work with a lot of people in a lot of projects, big or small (such as osu!, kitsu-desktop, mewo, and more !)  
+私は現在、学生なのでフルタイムでは働いていません。大小さまざまなプロジェクトで、多くの人と一緒に仕事ができるのは本当に幸せなことだと思います
+  
+<samp>I use ko-fi for donations, thank you if you help me with donations >< : (Link down)  
 If you want to support me with crypto, or other, just DM me on twitter and I'll send you an adress.
-
-# What's your socials ?
-
-Twitter : [@geshivrc](https://twitter.com/geshivrc)     
-Website : Reworking it rn
+  
+<samp>現在、日本語を学んでいますが、基本的なことといくつかの単語しか知らないので、下手だったらごめんなさい。  
+Currently learning japanese, I only know the basics and a few words, sorry if it's bad
+          
+<img src="https://pbs.twimg.com/profile_images/1405258419829829634/GFfH_HUt_400x400.jpg" class="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+</samp>
