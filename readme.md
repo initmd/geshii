@@ -7,5 +7,4 @@ If you want to support me with crypto, or other, just DM me on twitter and I'll 
 <samp>現在、日本語を学んでいますが、基本的なことといくつかの単語しか知らないので、下手だったらごめんなさい。  
 Currently learning japanese, I only know the basics and a few words, sorry if it's bad
           
-<img src="https://pbs.twimg.com/profile_images/1405258419829829634/GFfH_HUt_400x400.jpg" class="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 </samp>
