@@ -6,5 +6,7 @@ If you want to support me with crypto, or other, just DM me on twitter and I'll 
   
 <samp>現在、日本語を学んでいますが、基本的なことといくつかの単語しか知らないので、下手だったらごめんなさい。  
 Currently learning japanese, I only know the basics and a few words, sorry if it's bad
+  
+Profile Picture : https://www.pixiv.net/en/artworks/84218836
           
 </samp>
