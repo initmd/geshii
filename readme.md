@@ -10,3 +10,5 @@ Currently learning japanese, I only know the basics and a few words, sorry if it
 Profile Picture : https://www.pixiv.net/en/artworks/84218836
           
 </samp>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geshii&theme=vue)
