@@ -11,4 +11,4 @@ Profile Picture : https://www.pixiv.net/en/artworks/84218836
           
 </samp>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geshii&theme=vue)
+![](https://raw.githubusercontent.com/geshii/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)
